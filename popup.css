@@ -1,0 +1,16 @@
+body {
+    width: 400px;
+}
+
+#ua-target-websites, #ua-custom {
+    width: 75%;
+}
+
+input[type=button] {
+    margin-top: 5px;
+}
+
+h3 a {
+    text-decoration: none;
+    font-size: 12px;
+}
